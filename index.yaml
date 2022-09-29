@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   synology-csi:
   - apiVersion: v2
+    appVersion: v1.1.1
+    created: "2022-09-29T20:48:52.195820163Z"
+    description: A Helm chart for Kubernetes
+    digest: 39b088a4a8d8aa576067cc67adc163101c6c94465ea27fd40c940241bca0aa19
+    name: synology-csi
+    type: application
+    urls:
+    - https://github.com/camaeel/synology-csi/releases/download/synology-csi-1.0.2/synology-csi-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
     appVersion: v1.1.0
     created: "2022-08-17T20:48:20.294706771Z"
     description: A Helm chart for Kubernetes
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/camaeel/synology-csi/releases/download/synology-csi-1.0.0/synology-csi-1.0.0.tgz
     version: 1.0.0
-generated: "2022-08-17T20:48:20.294718571Z"
+generated: "2022-09-29T20:48:52.195831363Z"
